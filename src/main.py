@@ -8,7 +8,7 @@ from src.process import TaskProcessor
 from sources import FileTaskSource, GenTaskSource, APITaskSource
 
 
-def create_test_file() -> Path:
+def create_test_file() -> Path: # файл для демонстрации
     """временный файл с тестовыми задачами."""
     test_data = [
         {"payload": "Task from file 1"},
