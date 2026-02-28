@@ -1,0 +1,6 @@
+[
+    {"payload": "Test task 1", "id": "test-id-1"},
+    {"payload": "Test task 2"},
+    {"payload": "Test task 3", "id": "test-id-3"},
+    {"payload": "Complex task", "data": {"value": 42}}
+]
